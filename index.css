@@ -1,0 +1,72 @@
+*{
+    box-sizing:border-box;
+    margin: auto;
+}
+
+body{
+    background-color: black;
+}
+
+
+.div1{
+    background-color: aquamarine;
+    height: 50px;
+    width:1280px;
+}
+
+.heading{
+    text-align: center;
+}
+
+.raj{
+    text-align:center;
+}
+
+
+.myhome{
+        background-color: blue;   
+}
+
+.div2{
+    background-color: white;
+    width: 160px;
+    height: 80px;
+    margin-top: 100px;
+    margin-right: 1000px;
+    font-size: 50px;
+
+}
+
+.div3{
+    background-color: white;
+    width: 160px;
+    height: 60px;
+    font-size: 37px;
+    margin-left: 120px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.div4{
+    background-color:white;
+    width: 160px;
+    height: 70px;
+    font-size: 50px;
+    margin-right: 120px;
+    margin-top: -250px;
+    text-align: center;
+}
+
+.div5   {
+    background-color: white;
+    width: 160px;
+    height: 80px;
+    font-size: 20px;
+    margin-right: 120px;
+    margin-top: 100px;
+    text-align: center;
+
+}
+
+
+
